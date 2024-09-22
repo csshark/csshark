@@ -1,5 +1,5 @@
 # 🦈 Robert Strzoda
-**'Penetration Tester'**
+**Penetration Tester**
 
 I am a Penetration Tester (Red Team), expanding my knowledge and improving my competence every day by taking courses related to cybersecurity and participating in numerous competitions and conferences on technology and security. Each of my projects is well thought out, subjected to a planning process with the establishment of milestones and desired results. My career goal is to distribute scripts that automate manual processes in pentesting and become a professional/expert.
 
@@ -29,8 +29,9 @@ I am a Penetration Tester (Red Team), expanding my knowledge and improving my co
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-plain.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-<br/>
 
+---
+  
 ### 📊 GitHub Statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csshark&show_icons=true&theme=tokyonight)
