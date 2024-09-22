@@ -5,13 +5,13 @@ I am a Penetration Tester (Red Team), expanding my knowledge and improving my co
 
   <p allign="left">
     <a href="https://github.com/csshark">
-      <img width="15" height="15" title="Visit my GitHub Profile"
+      <img width="35" height="35" title="Visit my GitHub Profile"
       src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a>
     <a href="https://www.linkedin.com/in/robertstrzoda/">
-      <img width="15" height="15" title="Visit my LinkedIn Profile"
+      <img width="35" height="35" title="Visit my LinkedIn Profile"
         src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"/></a>
     <a href="https://www.credly.com/users/robert-strzoda">
-      <img width="15" height="15" title="Chcek My Badages"
+      <img width="35" height="35" title="Chcek My Badages"
         src="https://cdn-icons-png.freepik.com/256/1791/1791961.png"/></a>
   </p>
 
