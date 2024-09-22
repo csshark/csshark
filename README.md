@@ -11,7 +11,7 @@ I am a Penetration Tester (Red Team), expanding my knowledge and improving my co
       <img title="Visit my LinkedIn Profile"
         src="https://custom-icon-badges.demolab.com/?linkedin"/></a>
     <a href="https://www.credly.com/users/robert-strzoda">
-      <img title="Chcek My Badages"
+      <img widtth="15" title="Chcek My Badages"
         src="https://cdn-icons-png.freepik.com/256/1791/1791961.png"/></a>
   </p>
 
