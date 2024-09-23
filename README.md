@@ -32,8 +32,8 @@ I am a Penetration Tester (Red Team), expanding my knowledge and improving my co
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/2051px-Vmware_workstation_16_icon.svg.png"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://sekurak.pl/wp-content/uploads/2018/04/image14.png"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://hakin9.org/wp-content/uploads/2020/04/logo-5.png"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://www.bettercap.org/logo.png"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://awsmp-logos.s3.amazonaws.com/3fd16b5c-a3f6-43b5-b254-0a6ae8f6a350/42dbf6b22a7a3b052d01bc0d5790eb51.png"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="[https://www.bettercap.org/logo.png](https://ih1.redbubble.net/image.676364430.6847/raf,360x360,075,t,fafafa:ca443f4786.u6.jpg)"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/600/114/png-transparent-dragon-kali-linux-android-linux-logo-silhouette-linux-thumbnail.png"/>
 <img src='https://i.postimg.cc/682dFY6Y/logo.png' border='0' alt='sharkvisor' width="30px" style="padding-right:10px;"/></a>
 
 
