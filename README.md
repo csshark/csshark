@@ -33,7 +33,7 @@ I am a Penetration Tester (Red Team), expanding my knowledge and improving my co
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://sekurak.pl/wp-content/uploads/2018/04/image14.png"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://hakin9.org/wp-content/uploads/2020/04/logo-5.png"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://hackware.ru/wp-content/uploads/2018/04/logo.png"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="'https://i.postimg.cc/K12076Dt/distributor-logo-kali-linux-256x251.png"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://i.postimg.cc/K12076Dt/distributor-logo-kali-linux-256x251.png"/>
 <img src='https://i.postimg.cc/682dFY6Y/logo.png' border='0' alt='sharkvisor' width="30px" style="padding-right:10px;"/></a>
 
 
