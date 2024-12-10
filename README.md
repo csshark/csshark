@@ -28,7 +28,7 @@ I am IoT/OT Security Engineer, expanding my knowledge and improving my competenc
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-plain.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://www.amd.com/content/dam/amd/en/images/logos/products/2410750-amd-vitis.jpg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://www.mvd-training.com/img/picto/picto_vitis.png"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/2051px-Vmware_workstation_16_icon.svg.png"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://sekurak.pl/wp-content/uploads/2018/04/image14.png"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
