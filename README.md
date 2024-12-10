@@ -33,7 +33,7 @@ I am IoT/OT Security Engineer, expanding my knowledge and improving my competenc
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://sekurak.pl/wp-content/uploads/2018/04/image14.png"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://i.postimg.cc/K12076Dt/distributor-logo-kali-linux-256x251.png"/>
+<img align="left" alt="vhdl" width="30px" style="padding-right:10px;" src="https://embetronicx.com/wp-content/uploads/2022/05/vhdl.png"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://hackware.ru/wp-content/uploads/2018/04/logo.png"/>
 
 
