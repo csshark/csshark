@@ -13,6 +13,9 @@ I am IoT/OT Security Engineer, expanding my knowledge and improving my competenc
     <a href="https://www.credly.com/users/robert-strzoda">
       <img width="35" height="35" style="padding-right:70px;" title="Chcek My Badages"
         src="https://cdn-icons-png.freepik.com/256/1791/1791961.png"/></a>
+    <a href="https://github.com/csshark/filehold"/>
+      <img width="35" height="35" style="padding-right:70px;" title="Chceck My Certifications"
+        src="https://cdn-icons-png.flaticon.com/512/2617/2617793.png"/>
   </p>
 
   ---
