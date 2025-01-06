@@ -36,6 +36,14 @@ I am IoT/OT Security Engineer, expanding my knowledge and improving my competenc
 <img align="left" alt="vhdl" width="30px" style="padding-right:10px;" src="https://embetronicx.com/wp-content/uploads/2022/05/vhdl.png"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png"/>
 
+<br>
+
+---
+
+### 🚧 Important Projects
+
+<p><a href="https://github.com/csshark/sdr-cap">SDR-Cap: FPGA openwifi based packet sniffer (in progress)</a></p>
+<p><a href="https://github.com/BaldwinSecundo/Drony2024">1st place project in Defense Ministry competition for unmanned air, land and sea systems competition</a></p>
 
 
 
