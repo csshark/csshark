@@ -30,7 +30,7 @@ I am FPGA Security/DevOps Engineer, expanding my knowledge and improving my comp
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-plain.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://www.mvd-training.com/img/picto/picto_vitis.png"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/2051px-Vmware_workstation_16_icon.svg.png"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://www.yoctoproject.org/wp-content/uploads/sites/32/2023/09/YoctoProject_Logo_RGB_White_small.svg"/>
+<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://www.yoctoproject.org/wp-content/uploads/sites/32/2023/09/YoctoProject_Logo_RGB_White_small.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
 <img align="left" alt="vhdl" width="30px" style="padding-right:10px;" src="https://embetronicx.com/wp-content/uploads/2022/05/vhdl.png"/>
