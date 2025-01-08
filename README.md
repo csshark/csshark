@@ -1,7 +1,7 @@
 # 🦈 Robert Strzoda
-**IoT Security Engineer**
+**FPGA Security/DevOps Engineer**
 
-I am IoT/OT Security Engineer, expanding my knowledge and improving my competence every day by taking courses related to cybersecurity and participating in numerous competitions and conferences on technology and security. Each of my projects is well thought out, subjected to a planning process with the establishment of milestones and desired results. My career goal is to develop and bring new solutions and technologies to market and become an expert in this field.
+I am FPGA Security/DevOps Engineer, expanding my knowledge and improving my competence every day by taking courses related to cybersecurity and participating in numerous competitions and conferences on technology and security. Each of my projects is well thought out, subjected to a planning process with the establishment of milestones and desired results. My career goal is to develop and bring new solutions and technologies to market and become an expert in this field.
 
   <p allign="left">
     <a href="https://github.com/csshark">
