@@ -1,5 +1,5 @@
 # 🦈 Robert Strzoda
-**Embedded Engineer/DevSecOps Engineer**
+**Embedded Engineer/Security Engineer**
 
 I am Embedded Engineer with focus on security, expanding my knowledge and improving my competence every day by taking courses related to cybersecurity and participating in numerous competitions and conferences on technology and security. Each of my projects is well thought out, subjected to a planning process with the establishment of milestones and desired results. My career goal is to develop and bring new solutions and technologies to market and become an expert in this field.
 
