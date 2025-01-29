@@ -42,7 +42,7 @@ I am Embedded Engineer with focus on security, expanding my knowledge and improv
 
 ### 🚧 Important Projects
 
-<p><a href="https://github.com/csshark/sdr-cap">SDR-Cap: FPGA openwifi based packet sniffer (in progress)</a></p>
+<p><a href="https://github.com/csshark/sdr-cap">SDR-Cap: FPGA openwifi based packet sniffer</a></p>
 <p><a href="https://github.com/csshark/RSA-signature">A simplified demonstration of how RSA Signature works</p>
 
 
