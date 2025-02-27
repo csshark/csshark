@@ -54,16 +54,16 @@ I am Penetration Tester with interest in embedded development, expanding my know
 <img align="left" alt="Netcat" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/ru/2/29/Netcat_logo.png"/>
 <img align="left" alt="SET" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/set/images/set-logo.svg"/>
 <img align="left" alt="Scapy" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/3/3a/Scapy_logo.png"/>
+<img align="left" alt="Hash Identifier" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/hash-identifier/images/hash-identifier-logo.svg"/>
 <img align="left" alt="Wifite" width="30px" style="padding-right:10px;" src="https://gitlab.com/uploads/-/system/project/avatar/11904401/kali-wifite.png"/>
 <img align="left" alt="VMware Workstation" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/2051px-Vmware_workstation_16_icon.svg.png"/>
-<img allign="left" alt="Bettercap" width="30px" style="padding-right:10px;" src="https://www.bettercap.org/logo.png"/>
-<img allign="left" alt="Hash Identifier" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/hash-identifier/images/hash-identifier-logo.svg"/>
+<img align="left" alt="Bettercap" width="30px" style="padding-right:10px;" src="https://www.bettercap.org/logo.png"/>
+<img align="left" alt="hashcat" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRugKVxZtIh1SSbqxVN4jY2cMlGjRyeaxnYtA&s"/>
 
 
 <br>
 
   ---
-
 
 ### 🚧 Important Projects
 
