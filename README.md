@@ -58,7 +58,7 @@ I am Penetration Tester with interest in embedded development, expanding my know
 <img align="left" alt="Wifite" width="30px" style="padding-right:10px;" src="https://gitlab.com/uploads/-/system/project/avatar/11904401/kali-wifite.png"/>
 <img align="left" alt="VMware Workstation" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/2051px-Vmware_workstation_16_icon.svg.png"/>
 <img align="left" alt="Bettercap" width="30px" style="padding-right:10px;" src="https://www.bettercap.org/logo.png"/>
-<img align="left" alt="hashcat" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRugKVxZtIh1SSbqxVN4jY2cMlGjRyeaxnYtA&s"/>
+<img alt="hashcat" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRugKVxZtIh1SSbqxVN4jY2cMlGjRyeaxnYtA&s"/>
 
 
 <br>
