@@ -1,7 +1,7 @@
 # 🦈 Robert Strzoda
 **Penetration Tester/Embedded Engineer**
 
-I am Penetration Tester with interest in embedded development, expanding my knowledge and improving my competence every day by taking courses related to cybersecurity and participating in numerous competitions and conferences on technology and security. Each of my projects is well thought out, subjected to a planning process with the establishment of milestones and desired results. My career goal is to develop and bring new solutions and technologies to market and become an expert in this field. I have extensive knowledge in embedded design and development of dedicated linux operating systems as well as performing IT security audits, including finding vulnerabilities and weaknesses in IT systems.
+I am Penetration Tester with interest in embedded development, expanding my knowledge and improving my competence every day by taking courses related to cybersecurity, spamming CTFs and participating in numerous competitions and conferences on technology and security. Each of my projects is well thought out, subjected to a planning process with the establishment of milestones and desired results. My career goal is to develop and bring new solutions and technologies to market and become an expert in this field. I have extensive knowledge in embedded design and development of dedicated linux operating systems as well as performing IT security audits, including finding vulnerabilities and weaknesses in IT systems.
 
   <p allign="left">
     <a href="https://github.com/csshark">
