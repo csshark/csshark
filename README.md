@@ -1,5 +1,5 @@
 # 🦈 Robert Strzoda
-**Penetration Tester/Embedded Engineer**
+**Penetration Tester/Ethical Hacker**
 
 I am Penetration Tester with interest in embedded development, expanding my knowledge and improving my competence every day by taking courses related to cybersecurity, spamming CTFs and participating in numerous competitions and conferences on technology and security. Each of my projects is well thought out, subjected to a planning process with the establishment of milestones and desired results. My career goal is to become trusted, experienced and effective penetration tester. I have extensive knowledge in embedded design and development of dedicated linux operating systems as well as performing IT security audits, including finding vulnerabilities and weaknesses in IT systems (especially Web Aplications).
 
@@ -41,30 +41,10 @@ I am Penetration Tester with interest in embedded development, expanding my know
 
   ---
 
-### 🧰 Embedded Tools/Enviroments
-
-<img align="left" alt="Linux OS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-<img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-<img align="left" alt="bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="VS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
-<img align="left" alt="AMD Vivado" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/50/AMD_Vivado_logo.svg"/>
-<img align="left" alt="Ubuntu Distribution" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"/>
-<img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>
-<img align="left" alt="Filezilla" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-plain.svg"/>
-<img align="left" alt="AMD Vitis" width="30px" style="padding-right:10px;" src="https://www.mvd-training.com/img/picto/picto_vitis.png"/>
-<img align="left" alt="VMware Workstation" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/2051px-Vmware_workstation_16_icon.svg.png"/>
-<img align="left" alt="Yocto Layers" width="50px" style="padding-right:10px;" src="https://www.yoctoproject.org/wp-content/uploads/sites/32/2023/09/YoctoProject_Logo_RGB_White_small.svg"/>
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
-<img align="left" alt="vhdl" width="30px" style="padding-right:10px;" src="https://embetronicx.com/wp-content/uploads/2022/05/vhdl.png"/>
-<img align="left" alt="Linux terminal" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png"/>
-
 
 
 <br>
 
-  ---
 
 ### 🚧 Some of my Projects
 
@@ -76,8 +56,4 @@ I am Penetration Tester with interest in embedded development, expanding my know
 
 <br>
 
----
-  
-### 📊 GitHub Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csshark&show_icons=true&theme=tokyonight)
