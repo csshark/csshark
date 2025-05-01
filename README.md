@@ -94,6 +94,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=AIpocalypse&theme=tokyonight" alt="AIpocalypse" />
   </a>
   <a href="https://github.com/csshark/sdr-cap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=sdr-cap&theme=tokyonight" alt="SDR-CAP" />
    
   </a>
 </p>
