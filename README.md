@@ -55,15 +55,15 @@
   &emsp;
     <a href="https://www.wireshark.org/"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-%23167C80.svg?style=plastic&logo=wireshark&logoColor=white"></a>
   &emsp;
-    <a href="https://nmap.org/"><img alt="Nmap" src="https://img.shields.io/badge/Nmap-%23000000.svg?style=plastic&logo=nmap&logoColor=white"></a>
+    <a href="https://nmap.org/"><img alt="Nmap" src="https://img.shields.io/badge/Nmap-%2300A0FF.svg?style=plastic&logo=nmap&logoColor=white"></a>
   &emsp;
     <a href="https://www.metasploit.com/"><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-%23FF0000.svg?style=plastic&logo=metasploit&logoColor=white"></a>
   &emsp;
     <a href="https://portswigger.net/burp"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-%23FF6F00.svg?style=plastic&logo=burp-suite&logoColor=white"></a>
   &emsp;
-    <a href="https://www.snort.org/"><img alt="Snort" src="https://img.shields.io/badge/Snort-%23000000.svg?style=plastic&logo=snort&logoColor=white"></a>
+    <a href="https://www.snort.org/"><img alt="Snort" src="https://img.shields.io/badge/Snort-%23FFC0CB.svg?style=plastic&logo=snort&logoColor=white"></a>
   &emsp;
-    <a href="https://www.splunk.com/"><img alt="Splunk" src="https://img.shields.io/badge/Splunk-%23000000.svg?style=plastic&logo=splunk&logoColor=white"></a>
+    <a href="https://www.splunk.com/"><img alt="Splunk" src="https://img.shields.io/badge/Splunk-%237FF300.svg?style=plastic&logo=splunk&logoColor=white"></a>
   &emsp;
     <a href="https://www.ibm.com/security/security-intelligence/qradar"><img alt="IBM QRadar" src="https://img.shields.io/badge/IBM%20QRadar-%230052CC.svg?style=plastic&logo=ibm&logoColor=white"></a>
   &emsp;
