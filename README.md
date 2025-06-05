@@ -40,12 +40,20 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
   &emsp;
+  <a href="https://www.java.com/" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/JavaScript%20-%23ED8B00.svg?style=plastic&logo=JavaScript&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://www.cplusplus.com/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.ruby-lang.org/" target="_blank"> 
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby%20-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white">
   </a>
 </p>
 
