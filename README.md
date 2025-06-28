@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Robert Strzoda <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Security+Engineer;Penetration+Tester;Purple+Teamer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Penetration+Tester;Breaking into systems..."></a>
 </p>
 
 <br>
@@ -15,7 +15,7 @@
 
 <br><br>
 
-- :shield: Security Engineer/Purple Teamer.
+- :shield: Penetration Tester/Red Teamer.
 - :trophy: 1st and 2nd place in the Minister of National Defense Competition for building unmanned aerial, land, and water vehicles (2024).
 - :computer: Skilled in Penetration Testing, Blue Team strategies, and Purple Team methodologies.
 - :student: Always learning and improving my skills in cybersecurity.
