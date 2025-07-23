@@ -101,20 +101,21 @@
   <a href="https://github.com/csshark/AIpocalypse">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=AIpocalypse&theme=tokyonight" alt="AIpocalypse" />
   </a>
-  <a href="https://github.com/csshark/sdr-cap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=sdr-cap&theme=tokyonight" alt="SDR-CAP" />
-  </a>
+   <a href="https://github.com/csshark/FormPoison">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=FormPoison&theme=tokyonight" alt="Form Poison"/>
+   </a>
    <a href="https://github.com/csshark/purple-labs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=purple-labs&theme=tokyonight" alt="Purple Team Learning" />   
   </a>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=csshark&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
+## Want me to fix the broken site ? 
+See my Web expertise: <br><br><p>
+ <a href="https://nextjs.org"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" width=60px></a>&nbsp;
+ <a href="https://portswigger.net/burp/pro"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BurpSuite_Comunity_Edition.svg/250px-BurpSuite_Comunity_Edition.svg.png" width=60px></a>&nbsp;
+ <a href="https://www.php.net/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQED3NyjmcLYFw/company-logo_200_200/company-logo_200_200/0/1680507150858/phpnet_logo?e=2147483647&v=beta&t=39VmxMpksgJnn0n1w4xp7y7Tt-HYJK3PPwa6A4lgiWw" width=60px></a>&nbsp;
+ <a href="https://www.postman.com"><img src="https://avatars.slack-edge.com/2024-04-05/6934042159649_ac803d1cddbcbef8f110_512.png" width=60px></a>&nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width=55px>&nbsp;
 </p>
 
 ---
@@ -122,7 +123,6 @@
 ## 📩 Contact Me
 
 <p align="center">
-	<a href="mailto:rstrzoda@zohomail.eu"><img src="https://img.shields.io/badge/Zoho-%23EA4335.svg?style=plastic&logo=zoho&logoColor=white"/></a>
-	<a href="https://github.com/csshark"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"/></a>
-	<a href="https://www.linkedin.com/in/robertstrzoda"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
+	<a href="mailto:rstrzoda@zohomail.eu"><img src="https://img.shields.io/badge/Zoho-%23EA4335.svg?style=plastic&logo=zoho&logoColor=white" width=128px></a>
+	<a href="https://www.linkedin.com/in/robertstrzoda"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" width=128px></a>
 </p>
