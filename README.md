@@ -109,16 +109,17 @@
   </a>
 </p>
 
-## Want me to fix the broken site ? 
-See my Web expertise: <br><br><p>
- <a href="https://nextjs.org"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" width=60px></a>&nbsp;
- <a href="https://portswigger.net/burp/pro"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BurpSuite_Comunity_Edition.svg/250px-BurpSuite_Comunity_Edition.svg.png" width=60px></a>&nbsp;
- <a href="https://www.php.net/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQED3NyjmcLYFw/company-logo_200_200/company-logo_200_200/0/1680507150858/phpnet_logo?e=2147483647&v=beta&t=39VmxMpksgJnn0n1w4xp7y7Tt-HYJK3PPwa6A4lgiWw" width=60px></a>&nbsp;
- <a href="https://www.postman.com"><img src="https://avatars.slack-edge.com/2024-04-05/6934042159649_ac803d1cddbcbef8f110_512.png" width=60px></a>&nbsp;
- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width=55px>&nbsp;
+<!--
+## Looking for CERTS ? -->
+
+<p align="center">
+  	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&multiline=true&width=700&height=100&lines=$+certs+--show;" alt="--show+terminal+style;.;$+_" />
 </p>
 
----
+<p align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=400&lines=IBM+Pro+Cybersecurity+Analyst;CPTAv2;BSCP;...and+8+queued+ones;.;$+_" alt="certs --show terminal style" />
+</p>
+
 
 ## 📩 Contact Me
 
