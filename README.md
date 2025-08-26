@@ -50,6 +50,17 @@ Content-Length: 2025
 		"skill":"CSRF",
 		"skill":"Tokens-Inspection",
 		"skill":"Context-based-payloads"
+		"skill":"Path-Traversal",
+		"skill":"IDOR",
+		"skill":"RCE",
+		"skill":"Auth-Bypass-Methods",
+		"skill":"Smuggling attacks"
+		],
+	"Red-Team-TTPs": [
+		"skill":"Phishing Campaigns",
+		"skill":"Evasion-Techniques",
+		"skill":"Persistence-Mechanisms",
+		"skill":"C2-Framework"
 		]
 ],
 
