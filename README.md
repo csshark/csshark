@@ -24,74 +24,61 @@
 
 ## 🛠️ My Skills
 
-### Programming/Scripting Languages
+### Request
+```http
+POST /skills HTTP/1.1
+Host: github.com/csshark
+User-Agent: GitHub Readme 10.5 
+Content-Type: application/json
+Content-Length: 42
 
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-    <img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"> 
-    <img alt="Powershell" src="https://img.shields.io/badge/Powershell%20-%235391FE.svg?style=plastic&logo=powershell&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.java.com/" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/JavaScript%20-%23ED8B00.svg?style=plastic&logo=JavaScript&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.cplusplus.com/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.ruby-lang.org/" target="_blank"> 
-    <img alt="Ruby" src="https://img.shields.io/badge/Ruby%20-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white">
-  </a>
-</p>
+{
+  "query": "Show skills and tools"
+}
+```
 
-### Well Known Tools
+### Response
+```http
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 2048
 
-<p align="center">
-  &emsp;
-    <a href="https://www.wireshark.org/"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-%23167C80.svg?style=plastic&logo=wireshark&logoColor=white"></a>
-  &emsp;
-    <a href="https://nmap.org/"><img alt="Nmap" src="https://img.shields.io/badge/Nmap-%2300A0FF.svg?style=plastic&logo=nmap&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.metasploit.com/"><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-%23FF0000.svg?style=plastic&logo=metasploit&logoColor=white"></a>
-  &emsp;
-    <a href="https://portswigger.net/burp"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-%23FF6F00.svg?style=plastic&logo=burp-suite&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.snort.org/"><img alt="Snort" src="https://img.shields.io/badge/Snort-%23FFC0CB.svg?style=plastic&logo=snort&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.splunk.com/"><img alt="Splunk" src="https://img.shields.io/badge/Splunk-%237FF300.svg?style=plastic&logo=splunk&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.ibm.com/security/security-intelligence/qradar"><img alt="IBM QRadar" src="https://img.shields.io/badge/IBM%20QRadar-%230052CC.svg?style=plastic&logo=ibm&logoColor=white"></a>
-  &emsp;
-    <a href="https://gchq.github.io/CyberChef/"><img alt="CyberChef" src="https://img.shields.io/badge/CyberChef-%23000000.svg?style=plastic&logo=cyberchef&logoColor=white"></a>
-</p>
+"Best-Performing": [
+	"Web-Application-Pentesting": [
+		"SQL-Injection",
+		
 
-### Operating Systems
+"Programming_Scripting": [
+	"Scripting":"Bash",
+	"Scripting":"PowerShell",
+	"Scripting":"Python",
+	"Programming":"JavaScript",
+	"Programming":"C++",
+	"Programming":"C",
+	"Programming":"Ruby"
+],
 
-<p align="center">
-  &emsp;
-    <a href="https://ubuntu.com/desktop"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.microsoft.com/en-us/windows/?r=1"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=plastic&logo=kalilinux&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.whonix.org/"><img src="https://img.shields.io/badge/Whonix-%2348B9C7.svg?style=plastic&logo=whonix&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.parrotsec.org/"><img src="https://img.shields.io/badge/ParrotOS-%2348B9C7.svg?style=plastic&logo=parrotsecurity&logoColor=white"></a>
-</p>
+"Tools": [
+	"Analysis":"Wireshark",
+	"Recon":"Nmap",
+	"Recon":"Shodan",
+	"Exploatation":"Metasploit",
+	"Recon_and_more":"Burp Suite",
+	"Password_cracking":"Hashcat",
+	"Exploatation":"sqlmap",
+	"Password_cracking":"CyberChef",
+	"Reporting":"Obsidian"
+],
+
+"Operating-Systems": [
+	"Debian-Based":"Kali",
+	"Debian-Based":"Ubuntu",
+	"Debian-Based":"Parrot OS",
+	"Microsoft":"Windows",
+	"Microsoft":"Server",
+	"Mobile":"Android"
+]
+```
 
 ---
 
