@@ -41,12 +41,17 @@ Content-Length: 42
 ```http
 HTTP/1.1 200 OK
 Content-Type: text/plain
-Content-Length: 2048
+Content-Length: 2025
 
 "Best-Performing": [
 	"Web-Application-Pentesting": [
-		"SQL-Injection",
-		
+		"skill":"SQL-Injection",
+		"skill":"XSS",
+		"skill":"CSRF",
+		"skill":"Tokens-Inspection",
+		"skill":"Context-based-payloads"
+		]
+],
 
 "Programming_Scripting": [
 	"Scripting":"Bash",
