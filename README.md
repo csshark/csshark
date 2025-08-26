@@ -17,12 +17,12 @@
 
 - :shield: Penetration Tester/Red Teamer.
 - :trophy: 1st and 2nd place in the Minister of National Defense Competition for building unmanned aerial, land, and water vehicles (2024).
-- :computer: Skilled in Penetration Testing, Blue Team strategies, and Purple Team methodologies.
+- :computer: Skilled in Penetration Testing and Purple Team methodologies.
 - :student: Always learning and improving my skills in cybersecurity.
-- :thinking: Open to new opportunities in cybersecurity and penetration testing.
+- :thinking: Getting certified.
 <br>
 
-## 🛠️ My Skills
+# Skills <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUqXIfMA5SWejplac2niPnKswtWJYB7Ev_w&s" width="20">
 
 ### Request
 ```http
