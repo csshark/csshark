@@ -1,6 +1,9 @@
 <h1 align="center">Hi , I'm Robert Strzoda <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Penetration+Tester;Breaking+into+systems..."></a>
+  <img src="https://38.media.tumblr.com/579b6ba60ad4ce790b3f368973d71c5b/tumblr_nu6zzjrpg11t6rnioo1_r1_1280.gif" width= 400px></a>
+  </p>
+  <p align="center">
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Penetration+Tester;Breaking+into+systems..."></a>
 </p>
 
 <br>
@@ -11,15 +14,16 @@
 
 ## <picture><img src = "https://trilightsecurity.com/wp-content/uploads/2022/12/Shield.gif" width = 25px></picture> About me
 
-<picture> <img align="right" src="https://www.isitglobal.com/img/cyber-security13.gif" width = 250px></picture>
+<picture> <img align="right" src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" width = 150px></picture>
 
 <br><br>
 
-- :shield: Penetration Tester/Purple Teamer.
+- :shield: Red & Purple Teamer.
 - :trophy: 1st and 2nd place in the Minister of National Defense Competition for building unmanned aerial, land, and water vehicles (2024).
 - :computer: Skilled in Penetration Testing and Purple Team methodologies.
 - :student: Always learning and improving my skills in cybersecurity.
 - 🪪 Getting certified.
+
 <br>
 
 # Skills <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUqXIfMA5SWejplac2niPnKswtWJYB7Ev_w&s" width="20">
@@ -101,14 +105,11 @@ Content-Length: 2025
 ## 📂 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/csshark/AIpocalypse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=AIpocalypse&theme=tokyonight" alt="AIpocalypse" />
-  </a>
    <a href="https://github.com/csshark/FormPoison">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=FormPoison&theme=tokyonight" alt="Form Poison"/>
    </a>
-   <a href="https://github.com/csshark/purple-labs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=purple-labs&theme=tokyonight" alt="Purple Team Learning" />   
+   <a href="https://github.com/csshark/cptav2-prep">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=cptav2-prep&theme=tokyonight" alt="CPTAv2 Resources" />   
   </a>
 </p>
 
