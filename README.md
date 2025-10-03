@@ -47,7 +47,7 @@ Content-Length: 42
 ```http
 HTTP/1.1 200 OK
 Content-Type: text/plain
-Content-Length: 2875
+Content-Length: 2665
 
 "Best-Performing": [
 	"Web-Application-Tests": [
