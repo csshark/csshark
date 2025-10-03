@@ -20,7 +20,7 @@
 
 - :shield: Red & Purple Teamer.
 - :trophy: 1st and 2nd place in the Minister of National Defense Competition for building unmanned aerial, land, and water vehicles (2024).
-- :computer: Skilled in Penetration Testing and Purple Team methodologies.
+- :computer: Skilled in Red & Blue Operations (MITRE ATT&CK and D3FEND).
 - :student: Always learning and improving my skills in cybersecurity.
 - 🪪 Getting certified.
 
