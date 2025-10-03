@@ -41,30 +41,52 @@ Content-Length: 42
 }
 ```
 
-### Response
+<details>
+<summary><b>Show full response</b></summary>
+	
 ```http
 HTTP/1.1 200 OK
 Content-Type: text/plain
-Content-Length: 2025
+Content-Length: 2875
 
 "Best-Performing": [
-	"Web-Application-Pentesting": [
+	"Web-Application-Tests": [
 		"skill":"SQL-Injection",
 		"skill":"XSS",
 		"skill":"CSRF",
 		"skill":"Tokens-Inspection",
-		"skill":"Context-based-payloads"
+		"skill":"Context-based-payloads",
 		"skill":"Path-Traversal",
 		"skill":"IDOR",
 		"skill":"RCE",
 		"skill":"Auth-Bypass-Methods",
-		"skill":"Smuggling attacks"
+		"skill":"Smuggling-attacks"
+		],
+	"Purple-Team-Operations": [
+		"skill":"Threat-Emulation",
+		"skill":"Detection-Engineering",
+		"skill":"Alert-Validation",
+		"skill":"Use-Case-Development",
+		"skill":"Gap-Analysis",
+		"skill":"MITRE-ATT&CK-Mapping",
+		"skill":"Control-Validation",
+		"skill":"Incident-Response-Support"
 		],
 	"Red-Team-TTPs": [
-		"skill":"Phishing Campaigns",
+		"skill":"Phishing-Campaigns",
 		"skill":"Evasion-Techniques",
 		"skill":"Persistence-Mechanisms",
-		"skill":"C2-Framework"
+		"skill":"C2-Framework",
+		"skill":"Lateral-Movement",
+		"skill":"Privilege-Escalation"
+		],
+	"Blue-Team-Defenses": [
+		"skill":"SIEM-Monitoring",
+		"skill":"EDR-Operations",
+		"skill":"Log-Analysis",
+		"skill":"Threat-Hunting",
+		"skill":"Incident-Response",
+		"skill":"Forensic-Analysis"
 		]
 ],
 
@@ -75,30 +97,48 @@ Content-Length: 2025
 	"Programming":"JavaScript",
 	"Programming":"C++",
 	"Programming":"C",
-	"Programming":"Ruby"
+	"Programming":"Ruby",
+	"Query":"KQL",
+	"Query":"Splunk-SPL"
 ],
 
 "Tools": [
 	"Analysis":"Wireshark",
 	"Recon":"Nmap",
 	"Recon":"Shodan",
-	"Exploatation":"Metasploit",
-	"Recon_and_more":"Burp Suite",
+	"Exploitation":"Metasploit",
+	"Recon_and_more":"Burp-Suite",
 	"Password_cracking":"Hashcat",
-	"Exploatation":"sqlmap",
+	"Exploitation":"sqlmap",
 	"Password_cracking":"CyberChef",
-	"Reporting":"Obsidian"
+	"Reporting":"Obsidian",
+	"Purple-Team":"Atomic-Red-Team",
+	"Purple-Team":"CALDERA",
+	"Purple-Team":"Splunk",
+	"Purple-Team":"ELK-Stack",
+	"EDR":"CrowdStrike",
+	"EDR":"Microsoft-Defender",
+	"Simulation":"Cobalt-Strike",
 ],
 
 "Operating-Systems": [
 	"Debian-Based":"Kali",
 	"Debian-Based":"Ubuntu",
-	"Debian-Based":"Parrot OS",
+	"Debian-Based":"Parrot-OS",
 	"Microsoft":"Windows",
 	"Microsoft":"Server",
 	"Mobile":"Android"
+],
+
+"Methodologies_Frameworks": [
+	"Framework":"MITRE-ATT&CK",
+	"Framework":"NIST-CSF",
+	"Framework":"Cyber-Kill-Chain",
+	"Methodology":"Incident-Response",
+	"Methodology":"Threat-Modeling"
 ]
 ```
+</details>
 
 ---
 
