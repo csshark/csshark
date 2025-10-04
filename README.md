@@ -47,7 +47,7 @@ Content-Length: 42
 ```http
 HTTP/1.1 200 OK
 Content-Type: text/plain
-Content-Length: 2665
+Content-Length: 1337
 
 "Best-Performing": [
 	"Web-Application-Tests": [
@@ -116,6 +116,8 @@ Content-Length: 2665
 	"Purple-Team":"CALDERA",
 	"Purple-Team":"Splunk",
 	"Purple-Team":"ELK-Stack",
+	"Purple-Team":"Wazuh",
+	"Purple-Team":"Arkime",
 	"EDR":"CrowdStrike",
 	"EDR":"Microsoft-Defender",
 	"Simulation":"Cobalt-Strike",
