@@ -151,9 +151,9 @@ Content-Length: 1337
    <a href="https://github.com/csshark/FormPoison">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=FormPoison&theme=tokyonight" alt="Form Poison"/>
    </a>
-   <a href="https://github.com/csshark/cptav2-prep">
+  <!-- <a href="https://github.com/csshark/cptav2-prep">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=cptav2-prep&theme=tokyonight" alt="CPTAv2 Resources" />   
-  </a>
+  </a> -->
 </p>
 
 ---
