@@ -47,99 +47,132 @@ Content-Length: 42
 	
 ```http
 HTTP/1.1 200 OK
-Content-Type: text/plain
-Content-Length: 1337
+Content-Type: application/json
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'none'
 
-"Best-Performing": [
-	"Web-Application-Tests": [
-		"skill":"SQL-Injection",
-		"skill":"XSS",
-		"skill":"CSRF",
-		"skill":"Tokens-Inspection",
-		"skill":"Context-based-payloads",
-		"skill":"Path-Traversal",
-		"skill":"IDOR",
-		"skill":"RCE",
-		"skill":"Auth-Bypass-Methods",
-		"skill":"Smuggling-attacks"
-		],
-	"Purple-Team-Operations": [
-		"skill":"Threat-Emulation",
-		"skill":"Detection-Engineering",
-		"skill":"Alert-Validation",
-		"skill":"Use-Case-Development",
-		"skill":"Gap-Analysis",
-		"skill":"MITRE-ATT&CK-Mapping",
-		"skill":"Control-Validation",
-		"skill":"Incident-Response-Support"
-		],
-	"Red-Team-TTPs": [
-		"skill":"Phishing-Campaigns",
-		"skill":"Evasion-Techniques",
-		"skill":"Persistence-Mechanisms",
-		"skill":"C2-Framework",
-		"skill":"Lateral-Movement",
-		"skill":"Privilege-Escalation"
-		],
-	"Blue-Team-Defenses": [
-		"skill":"SIEM-Monitoring",
-		"skill":"EDR-Operations",
-		"skill":"Log-Analysis",
-		"skill":"Threat-Hunting",
-		"skill":"Incident-Response",
-		"skill":"Forensic-Analysis"
-		]
-],
-
-"Programming_Scripting": [
-	"Scripting":"Bash",
-	"Scripting":"PowerShell",
-	"Scripting":"Python",
-	"Programming":"JavaScript",
-	"Programming":"C++",
-	"Programming":"C",
-	"Programming":"Ruby",
-	"Query":"KQL",
-	"Query":"Splunk-SPL"
-],
-
-"Tools": [
-	"Analysis":"Wireshark",
-	"Recon":"Nmap",
-	"Recon":"Shodan",
-	"Exploitation":"Metasploit",
-	"Recon_and_more":"Burp-Suite",
-	"Password_cracking":"Hashcat",
-	"Exploitation":"sqlmap",
-	"Password_cracking":"CyberChef",
-	"Reporting":"Obsidian",
-	"Purple-Team":"Atomic-Red-Team",
-	"Purple-Team":"CALDERA",
-	"Purple-Team":"Splunk",
-	"Purple-Team":"ELK-Stack",
-	"Purple-Team":"Wazuh",
-	"Purple-Team":"Arkime",
-	"EDR":"CrowdStrike",
-	"EDR":"Microsoft-Defender",
-	"Simulation":"Cobalt-Strike",
-],
-
-"Operating-Systems": [
-	"Debian-Based":"Kali",
-	"Debian-Based":"Ubuntu",
-	"Debian-Based":"Parrot-OS",
-	"Microsoft":"Windows",
-	"Microsoft":"Server",
-	"Mobile":"Android"
-],
-
-"Methodologies_Frameworks": [
-	"Framework":"MITRE-ATT&CK",
-	"Framework":"NIST-CSF",
-	"Framework":"Cyber-Kill-Chain",
-	"Methodology":"Incident-Response",
-	"Methodology":"Threat-Modeling"
-]
+{
+  "cybersecurity_skills": {
+    "application_security": {
+      "owasp_top_10": [
+        "A01:2021-Broken_Access_Control",
+        "A02:2021-Cryptographic_Failures", 
+        "A03:2021-Injection",
+        "A05:2021-Security_Misconfiguration",
+        "A07:2021-Identification_Authentication_Failures"
+      ],
+      "web_application_testing": [
+        "SQL_Injection_Prevention",
+        "Cross_Site_Scripting_Protection",
+        "Cross_Site_Request_Forgery_Mitigation",
+        "Authentication_Flaw_Detection",
+        "Authorization_Bypass_Testing",
+        "Business_Logic_Vulnerabilities",
+        "API_Security_Testing",
+        "Session_Management_Testing"
+      ],
+      "secure_code_review": [
+        "Static_Application_Security_Testing",
+        "Software_Composition_Analysis",
+        "Dependency_Vulnerability_Scanning"
+      ]
+    },
+    
+    "security_operations": {
+      "purple_team": [
+        "Threat_Emulation_Exercises",
+        "Detection_Engineering",
+        "Alert_Validation_Tuning",
+        "Security_Use_Case_Development",
+        "Defense_Capability_Gap_Analysis",
+        "MITRE_ATTACK_Mapping",
+        "Security_Control_Validation",
+        "Incident_Response_Support"
+      ],
+      "red_team_techniques": [
+        "Adversary_Emulation",
+        "Defense_Evasion_Techniques",
+        "Command_Control_Infrastructure",
+        "Lateral_Movement",
+        "Privilege_Escalation",
+        "Phishing_Campaigns_Simulation",
+        "Social_Engineering_Assessments"
+      ],
+      "blue_team_defenses": [
+        "SIEM_Monitoring_Analysis",
+        "Endpoint_Detection_Response",
+        "Security_Log_Analysis",
+        "Proactive_Threat_Hunting",
+        "Incident_Response_Procedures",
+        "Digital_Forensics_Analysis"
+      ]
+    },
+    
+    "technical_competencies": {
+      "programming_scripting": {
+        "scripting_languages": [
+          "Bash_Shell_Scripting",
+          "PowerShell_Automation",
+          "Python_Security_Tooling"
+        ],
+        "programming_languages": [
+          "JavaScript_Web_Security",
+          "C_System_Security",
+          "C++_Application_Security"
+        ],
+        "query_languages": [
+          "Kusto_Query_Language",
+          "Splunk_Search_Processing_Language"
+        ]
+      },
+      
+      "security_tools": {
+        "vulnerability_assessment": [
+          "Burp_Suite_Professional",
+          "Nmap_Network_Mapping",
+          "Shodan_OSINT"
+        ],
+        "security_analysis": [
+          "Wireshark_Network_Analysis",
+          "Splunk_Enterprise_Security",
+          "ELK_Stack_Logging"
+        ],
+        "defense_platforms": [
+          "Microsoft_Defender_Suite", 
+          "Wazuh_SIEM"
+        ],
+        "adversary_emulation": [
+          "MITRE_Caldera_Framework",
+          "Atomic_Red_Team",
+          "Cobalt_Strike_Simulations",
+          "Phishing_Simulation_Platforms"
+        ]
+      },
+      
+      "operating_systems": [
+        "Kali_Linux_Penetration_Testing",
+        "Ubuntu_Server_Security",
+        "Windows_Server_Hardening",
+        "Android_Mobile_Security"
+      ],
+      
+      "frameworks_methodologies": {
+        "security_frameworks": [
+          "MITRE_ATTACK_Framework",
+          "NIST_Cybersecurity_Framework", 
+          "Cyber_Kill_Chain_Model"
+        ],
+        "methodologies": [
+          "OWASP_Testing_Methodology",
+          "Incident_Response_Framework",
+          "Threat_Modeling_Processes",
+          "Social_Engineering_Assessment_Framework"
+        ]
+      }
+    }
+  }
+}
 ```
 </details>
 
