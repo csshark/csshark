@@ -181,17 +181,17 @@ Content-Security-Policy: default-src 'none'
 ## 📂 Featured Repositories
 
 <p align="center">
+  <a href="https://github.com/csshark/CALDERA-PLUGINS">
+    <img src="https://github.com/mitre/caldera/blob/master/static/img/caldera-logo.png" width="200" height="200">
+  </a> <p></p>
   <a href="https://github.com/csshark/FormPoison">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=FormPoison&theme=tokyonight" alt="Form Poison"/>
   </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/csshark/wraphp3r">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=wraphp3r&theme=tokyonight" alt="LFI via PHP wrappers scanner" />   
   </a>
 
-  <a href="https://github.com/csshark/CALDERA-PLUGINS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=caldera-plugins&theme=tokyonight" alt="MITRE Caldera configs and plugins collection"/>
-  </a>
 </p>
 
 
