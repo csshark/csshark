@@ -190,7 +190,7 @@ Content-Security-Policy: default-src 'none'
   </a>
 
   <a href="https://github.com/csshark/CALDERA-PLUGINS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=caldera-plugins&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=caldera-plugins&theme=tokyonight" alt="MITRE Caldera configs and plugins collection"/>
   </a>
 </p>
 
