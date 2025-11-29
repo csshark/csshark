@@ -182,7 +182,7 @@ Content-Security-Policy: default-src 'none'
 
 <p align="center">
   <a href="https://github.com/csshark/CALDERA-PLUGINS">
-    <img src="https://github.com/mitre/caldera/blob/master/static/img/caldera-logo.png" width="200" height="200">
+    <img src="https://github.com/csshark/CALDERA-PLUGINS/blob/main/caldera-plugins-pack.png" width="200" height="200">
   </a> <p></p>
   <a href="https://github.com/csshark/FormPoison">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=FormPoison&theme=tokyonight" alt="Form Poison"/>
