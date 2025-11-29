@@ -187,6 +187,9 @@ Content-Security-Policy: default-src 'none'
   <a href="https://github.com/csshark/wraphp3r">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=wraphp3r&theme=tokyonight" alt="LFI via PHP wrappers scanner" />   
   </a>
+  <a href="https://github.com/csshark/CALDERA-PLUGINS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=CALDERA-PLUGINS&theme=tokyonight" alt="My custom Caldera Plugins collection" />   
+  </a>
 </p>
 
 ---
