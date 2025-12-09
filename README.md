@@ -184,12 +184,15 @@ Content-Security-Policy: default-src 'none'
   <a href="https://github.com/csshark/CALDERA-PLUGINS">
     <img src="https://github.com/csshark/CALDERA-PLUGINS/blob/main/caldera-plugins-pack.png" width="200" height="200">
   </a> <p></p>
-  <a href="https://github.com/csshark/FormPoison">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=FormPoison&theme=tokyonight" alt="Form Poison"/>
+  <p align="center">
+    <a href="https://github.com/csshark/LuRe">
+    <img src="https://github.com/csshark/LuRe/blob/main/LuRe.png" width="150" height="150" alt="LuRe Modern Phishing Framework/">
   </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/csshark/wraphp3r">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csshark&repo=wraphp3r&theme=tokyonight" alt="LFI via PHP wrappers scanner" />   
+    <img src="https://github.com/csshark/wraphp3r/blob/main/wraphp3r.png" width="200" height="200" alt="LFI via PHP wrappers scanner" />   
+  </a>
+   <a href="https://github.com/csshark/FormPoison">
+    <img src="https://github.com/csshark/FormPoison/blob/main/formpoison.png" width="200" height="200" alt="Form Poison"/>
   </a>
 
 </p>
