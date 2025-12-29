@@ -204,7 +204,7 @@ Content-Security-Policy: default-src 'none'
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=400&lines=IBM+Pro+Cybersecurity+Analyst;CPTAv2;BSCP;...and+8+queued+ones;.;$+_" alt="certs --show terminal style" />
+	<img src=https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/164114343>
 </p>
 
 
