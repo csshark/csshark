@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Robert Strzoda <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Robert Strzoda (csshark) <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" width="35"></h1>
 <p align="center">
   <img src="https://38.media.tumblr.com/579b6ba60ad4ce790b3f368973d71c5b/tumblr_nu6zzjrpg11t6rnioo1_r1_1280.gif" width= 400px></a>
   </p>
