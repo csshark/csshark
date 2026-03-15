@@ -31,15 +31,11 @@
 
 ### Request
 ```http
-POST /skills HTTP/1.1
+GET /skills HTTP/1.1
 Host: github.com/csshark
 User-Agent: GitHub Readme 10.5 
 Content-Type: application/json
-Content-Length: 42
 
-{
-  "query": "Show skills and tools"
-}
 ```
 
 <details>
