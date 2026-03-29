@@ -3,7 +3,7 @@
   <img src="https://38.media.tumblr.com/579b6ba60ad4ce790b3f368973d71c5b/tumblr_nu6zzjrpg11t6rnioo1_r1_1280.gif" width= 400px></a>
   </p>
   <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Hacking...;Emulating+Threats...;Auditing..;Securing!"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Hacking...;Emulating+Threats...;Auditing"></a>
 </p>
 
 <br>
