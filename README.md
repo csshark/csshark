@@ -9,7 +9,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=csshark&label=Profile%20views&color=0047AB&style=plastic?" alt="csshark" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=csshark&label=Profile%20views&color=blueviolet&style=plastic?" alt="csshark" height=25px, width=160px/> 
 </p>
 
 ## <picture><img src = "https://trilightsecurity.com/wp-content/uploads/2022/12/Shield.gif" width = 25px></picture> About me
