@@ -192,8 +192,7 @@ Content-Security-Policy: default-src 'none'
 
 ---
 
-<!--
-## Looking for CERTS ? -->
+## 📑 Certifications/Certificates
 
 <p align="center">
   	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&multiline=true&width=700&height=100&lines=$+certs+--show;" alt="--show+terminal+style;.;$+_" />
@@ -203,6 +202,7 @@ Content-Security-Policy: default-src 'none'
 	<img src=https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/164114343>
 </p>
 
+---
 
 ## 📩 Contact Me
 
