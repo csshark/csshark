@@ -185,7 +185,7 @@ Content-Security-Policy: default-src 'none'
     <img src="https://github.com/csshark/LuRe/blob/main/LuRe.png" width="150" height="150" alt="LuRe Modern Phishing Framework/">
   </a>
    <a href="https://github.com/csshark/FormPoison">
-    <img src="https://github.com/csshark/FormPoison/blob/main/formpoison.png" width="200" height="200" alt="Form Poison"/>
+    <img src="https://github.com/csshark/FormPoison/blob/main/FormPoison-logo.png" width="200" height="200" alt="Form Poison"/>
   </a>
 </p>
 
