@@ -174,19 +174,28 @@ Content-Security-Policy: default-src 'none'
 
 ---
 
-## 📂 Featured Repositories
+<h2 align="center">📂 Featured Repositories</h2>
 
 <p align="center">
   <a href="https://github.com/csshark/CALDERA-PLUGINS">
-    <img src="https://github.com/csshark/CALDERA-PLUGINS/blob/main/caldera-plugins-pack.png" width="200" height="200">
-  </a> <p></p>
-  <p align="center">
-    <a href="https://github.com/csshark/LuRe">
-    <img src="https://github.com/csshark/LuRe/blob/main/LuRe.png" width="150" height="150" alt="LuRe Modern Phishing Framework/">
+    <img src="https://github.com/csshark/CALDERA-PLUGINS/blob/main/caldera-plugins-pack.png" width="180" alt="CALDERA Plugins">
   </a>
-   <a href="https://github.com/csshark/FormPoison">
-    <img src="https://github.com/csshark/FormPoison/blob/main/FormPoison-logo.png" width="200" height="200" alt="Form Poison"/>
+
+  <a href="https://github.com/csshark/wraphp3r">
+    <img src="https://github.com/csshark/wraphp3r/blob/main/wraphp3r-ico.png" width="180" alt="wraphp3r">
   </a>
+
+  <a href="https://github.com/csshark/FormPoison">
+    <img src="https://github.com/csshark/FormPoison/blob/main/FormPoison-logo.png" width="180" alt="FormPoison">
+  </a>
+</p>
+
+<p align="center">
+  <b>CALDERA Plugins</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>wraphp3r</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>FormPoison</b>
 </p>
 
 
