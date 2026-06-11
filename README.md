@@ -174,7 +174,7 @@ Content-Security-Policy: default-src 'none'
 
 ---
 
-<h2 align="center">📂 Featured Repositories</h2>
+<h2 align="left">📂 Featured Repositories</h2>
 
 <p align="center">
   <a href="https://github.com/csshark/CALDERA-PLUGINS">
@@ -188,14 +188,6 @@ Content-Security-Policy: default-src 'none'
   <a href="https://github.com/csshark/FormPoison">
     <img src="https://github.com/csshark/FormPoison/blob/main/FormPoison-logo.png" width="180" alt="FormPoison">
   </a>
-</p>
-
-<p align="center">
-  <b>CALDERA Plugins</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>wraphp3r</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>FormPoison</b>
 </p>
 
 
