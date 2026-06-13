@@ -186,7 +186,7 @@ Content-Security-Policy: default-src 'none'
   </a>
 
   <a href="https://github.com/csshark/FormPoison">
-    <img src="https://github.com/csshark/FormPoison/blob/main/FormPoison-logo.png" width="180" alt="FormPoison">
+    <img src="https://github.com/csshark/FormPoison/blob/main/FormPoison-logo-mini.png" width="135" alt="FormPoison">
   </a>
 </p>
 
