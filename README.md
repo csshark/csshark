@@ -18,12 +18,12 @@
 
 <br><br>
 
-- :shield: Red Teamer & Purple Team Campaigns Lead.
-- :trophy: 1st and 2nd place in the Minister of National Defense Competition for building unmanned aerial, land, and water vehicles (2024).
-- :computer: Skilled in Red Team Operations & Adversary Emulation (MITRE ATT&CK).
+- :shield: Red Teamer & Purple Team Campaigns Lead
+- :trophy: 1st and 2nd place in the Minister of National Defense Competition for building unmanned aerial, land, and water vehicles (2024)
+- :computer: Skilled in Red Team Operations & Adversary Emulation (MITRE ATT&CK)
 - 🐱‍💻 Practicing labs in spare time
-- 🕵️‍♂️ Auditor (soon)
-- 🪪 Getting certified.
+- 📢 Cybersecurity events speaker 
+- 🪪 Getting certified
 
 <br>
 
