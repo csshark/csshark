@@ -211,3 +211,5 @@ Content-Security-Policy: default-src 'none'
 	<a href="mailto:rstrzoda@zohomail.eu"><img src="https://img.shields.io/badge/Zoho-%23EA4335.svg?style=plastic&logo=zoho&logoColor=white" width=128px></a>
 	<a href="https://www.linkedin.com/in/robertstrzoda"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" width=128px></a>
 </p>
+
+![](https://hit.yhype.me/github/profile?account_id=116022432)
