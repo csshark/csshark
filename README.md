@@ -88,6 +88,7 @@ Content-Security-Policy: default-src 'none'
       ],
       "red_team_techniques": [
         "Adversary_Emulation",
+		"Covert_Entry",
         "Defense_Evasion_Techniques",
         "Command_Control_Infrastructure",
         "Lateral_Movement",
